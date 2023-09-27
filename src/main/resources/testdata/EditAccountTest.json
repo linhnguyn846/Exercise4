@@ -1,0 +1,22 @@
+{
+  "EA1": {
+    "error_message": "Account Number must not be blank",
+    "value": ""
+  },
+  "EA2": {
+    "error_message": "Characters are not allowed",
+    "value": "Acc123"
+  },
+  "EA3": {
+    "error_message": "Special characters are not allowed",
+    "value": "123!@#"
+  },
+  "EA5": {
+    "error_message": "Characters are not allowed",
+    "value": "123 12"
+  },
+  "EA6": {
+    "error_message": "Characters are not allowed",
+    "value": "1 2"
+  }
+}

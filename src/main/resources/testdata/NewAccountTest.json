@@ -1,0 +1,42 @@
+{
+  "NA1": {
+    "error_message": "Customer ID is required",
+    "value": ""
+  },
+  "NA2": {
+    "error_message": "Characters are not allowed",
+    "value": "Acc123"
+  },
+  "NA3": {
+    "error_message": "Special characters are not allowed",
+    "value": "123!@#"
+  },
+  "NA4": {
+    "error_message": "Characters are not allowed",
+    "value": "123 12"
+  },
+  "NA5": {
+    "error_message": "First character can not have space",
+    "value": " 12"
+  },
+  "NA6": {
+    "error_message": "Initial Deposit must not be blank",
+    "value": ""
+  },
+  "NA7": {
+    "error_message": "Characters are not allowed",
+    "value": "Acc123"
+  },
+  "NA8": {
+    "error_message": "Special characters are not allowed",
+    "value": "123!@#"
+  },
+  "NA9": {
+    "error_message": "Characters are not allowed",
+    "value": "123 12"
+  },
+  "NA10": {
+    "error_message": "First character can not have space",
+    "value": " 12"
+  }
+}
